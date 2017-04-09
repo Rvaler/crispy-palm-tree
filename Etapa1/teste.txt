@@ -1,0 +1,66 @@
+/****************************************************
+** UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+** INSITUTO DE INFORMÁTICA
+** INFO1147 - COMPILADORES (2016/2)
+** TURMA A
+** 
+** Professor:
+**     Marcelo de Oliveira Johann
+**
+**         ETAPA 1 - Análise Léxica	e Inicialização de Tabela de Símbolos
+**
+** Alunos:
+**     Bruno Dias Freitas
+**     Rafael Valer
+**
+****************************************************/
+
+/*
+	Documento de teste para a etapa 1 do trabalho:
+		Análise Léxica e Inicialização de Tabelas de Símbolos.
+*/
+
+// Teste de variaveis
+int total = 37;
+float perc_mx = 100;
+bool verdadeiro = TRUE;
+bool falso = FALSE;
+char char_1 = 'a';
+char char_2 = 'b';
+char char_espc = '&';
+char char_num = '7';
+char string = "Esta e uma string";
+
+// Caracteres especiais
+void Class::metodo (int a, char b[], float c);
+{
+	if(a < c) then
+		b[i] = a + c;
+	else
+		if(a > c) then
+			b[i] = a - c;
+
+	if(!a)
+		c = c&3;
+
+	print("Texto qualquer",	$b[i] = a*c/123)
+}
+
+// Operadores Compostos
+if(45 <= c && c != 100) then
+{
+	if(1 >= b) then
+	{
+		for(int i = 0; i < 9; i++)
+			print("Valor de i %d\n", i);
+		return TRUE;
+	}
+	else if(verdeiro == gravar || falso == FALSE)
+	{
+		read("\\documentos\\texto.txt");
+		return 45;
+	}
+}
+
+// Token Error
+int = 3\2;

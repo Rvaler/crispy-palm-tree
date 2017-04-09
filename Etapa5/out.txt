@@ -1,0 +1,48 @@
+int s[3];
+char c:'x';
+int i:0;
+float v[10]: 0 0 0 0 0 0 0 0 0 0;
+int caralho(){
+  read a;
+  read a;
+};
+int main(){
+  if(5 == 5) then {
+    for(i < 10){
+      a = incn(a, 1);
+      i = i + 1;
+      ;
+    };
+    read t;
+    read o;
+    a = ( 10 + ( 9 * 0 ) );
+  };
+  a = 90 / 4;
+  a = 90 + 4;
+  a = 90 * 4;
+  a = 90 - 4;
+  for(i = 1 to 10) print i " ";
+  print " Digite um numero: \n";
+  read i;
+  for(i < 10){
+    a = incn(a, 1);
+    i = i + 1;
+    ;
+  };
+  print "Incrementado algumas vezes fica " a "\n";
+  if(a == 5) then print "Parou no meio\n";
+  if(a == 11) then ;
+  if(a == 11) then ;
+  ;
+  ;
+  ;
+  {
+    ;
+  };
+};
+int incn(int x, int n){
+  return x + n;
+};
+int voidfunc(){
+  ;
+};

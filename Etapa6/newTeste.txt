@@ -1,0 +1,13 @@
+int f:10;
+bool z:TRUE;
+
+int class(int v){
+		
+	if (TRUE && z) then else
+    ;
+
+	for(f = 1 to 5) {
+		f = f * 3;
+	};
+};
+
